@@ -1,6 +1,6 @@
 <h1 align="center">I'm Ehtesam Zunnuryn</h1>
 <h3 align="center">A relentless problem solver with a passion for mastering the art of competitive programming</h3>
-<br>
+
 
 - 🔭 Currently working on **Advanced algorithms and data structures for CP.**
 
