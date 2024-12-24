@@ -39,8 +39,11 @@
 
 <h3 align="center">📊 My Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesam75&theme=dark&layout=compact&align=right&width=40%" alt="Top Languages"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ehtesam75&show_icons=true&count_private=true&theme=dark" alt="ehtesam75" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesam75&theme=dark&layout=compact&align=right&width=40%" alt="Top Languages">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ehtesam75&show_icons=true&count_private=true&theme=dark" alt="ehtesam75" />
 </p>
 
 <p align="center">
