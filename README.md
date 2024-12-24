@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=ehtesam75&show_icons=true&theme=dark&hide=stars,commits,prs,issues,contribs" alt="ehtesam75" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ehtesam75&show_icons=true&count_private=true&theme=dark" alt="ehtesam75" /> </p>
 </p>
 
 <p align="center">
