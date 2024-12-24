@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ehtesam75&show_icons=true&count_private=true&theme=dark" alt="ehtesam75" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ehtesam75&show_icons=true&count_private=true&theme=dark&hide=grade" alt="ehtesam75" />
 </p>
 
 <p align="center">
