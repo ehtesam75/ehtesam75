@@ -39,7 +39,7 @@
 
 <h3 align="center">📊 My Stats:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesam75&layout=compact&theme=radical&bg_color=000000&title_color=FF1493&text_color=FFFFFF&border_color=FF1493" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesam75&theme=dark&layout=compact&align=right&width=40%" alt="Top Languages">
 </p>
 
 <p align="center">
