@@ -47,5 +47,6 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahjalalShohag&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtesam75&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" />
 </p>
+
