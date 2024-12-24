@@ -1,19 +1,16 @@
 <h1 align="center">I'm Ehtesam Zunnuryn</h1>
-<h3 align="center">A relentless problem solver and algorithm enthusiast with a passion for mastering the art of competitive programming</h3>
-
+<h3 align="center">A relentless problem solver with a passion for mastering the art of competitive programming</h3>
 <img align= "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 Currently working on **Advanced algorithms and data structures for CP.**
 
-- 🔭 I’m currently working on **Practicing advanced algorithms and data structures for competitive programming challenges.**
+- 🌱 Learning **Graph algorithms, dynamic programming, and number theory.**
 
-- 🌱 I’m currently learning **Advanced graph algorithms, dynamic programming, and number theory.**
+- 👯 Collaborating on **Problem-solving sessions and CP resources.**
 
-- 👯 I’m looking to collaborate on **Problem-solving sessions, CP study groups, or creating resources for new CP enthusiasts.**
+- 📫 Reach me at **ehtesamzunnuryn@gmail.com**
 
-- 📫 Get in touch with me at **ehtesamzunnuryn@gmail.com**
-
-- ⚡ Fun fact **I love debugging as much as solving the problem itself!**
+- ⚡ Fun fact **Debugging is as fun as solving problems!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
