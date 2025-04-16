@@ -3,7 +3,7 @@
 <br>
 
 
-- 🌱 Currently Learning **Graph algorithms, dynamic programming, and number theory.**
+- 🌱 Currently Learning **Data structure and algorithm and SQL.**
 
 - 👯 Collaborating on **Problem-solving sessions and CP resources.**
 
