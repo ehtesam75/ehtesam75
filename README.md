@@ -9,6 +9,7 @@
 **Database:** SQL — Oracle, MySQL
 
 **Tools:** Git & GitHub, VS Code, Sublime Text
+
 &nbsp;
 
 
