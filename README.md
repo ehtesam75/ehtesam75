@@ -11,11 +11,12 @@
 **Tools:** Git & GitHub, VS Code, Sublime Text
 &nbsp;
 
+
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtesam75&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesam75&theme=dark&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtesam75&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" height="150" />
 </p>
 &nbsp;
 
