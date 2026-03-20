@@ -1,4 +1,4 @@
-### 🛠 Skills
+### 🛠 Tech Skills
 
 **Languages:** C, C++, Python, Java, Dart, Assembly
 
@@ -6,14 +6,14 @@
 
 **Backend:** Django
 
-**Database:** SQL — Oracle, MySQL
+**Database:** SQL (Oracle, MySQL)
 
 **Tools:** Git & GitHub, VS Code, Sublime Text
 
 &nbsp;
 
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesam75&theme=dark&layout=compact" alt="Top Languages" height="150" />
