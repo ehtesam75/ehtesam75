@@ -8,7 +8,6 @@
 
 **Database:** SQL (Oracle, MySQL)
 
-&nbsp;
 
 ## 📊 GitHub Stats
 
@@ -17,7 +16,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtesam75&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" height="170" />
 </p>
 
-&nbsp;
+
 
 ## 🔗 Links
 
