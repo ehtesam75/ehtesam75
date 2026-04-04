@@ -1,20 +1,3 @@
-## 🛠 Tech Skills
-
-**Languages:** C, C++, Python, Java, Dart, Assembly
-
-**Frontend:** HTML, CSS, JavaScript
-
-**Backend:** Django
-
-**Database:** SQL (Oracle, MySQL)
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtesam75&theme=dark&layout=compact" alt="Top Languages" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtesam75&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" height="165" />
-</p>
-
 
 ## 🔗 Links
 
